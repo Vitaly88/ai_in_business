@@ -24,6 +24,8 @@ Finance: marketing, sales, risk assessment and risk management
 
 Before approaching a task, you should 2 questions: does the data contain labels and is the data continuous (has numerical labels)? 
 
+![](./pics/pic0.png)
+
 ==Supervised Learning== maps an input to an output 
 
 Machine Translation, Image classification, face recognition, sentiment analysis, NLP, event detection 
